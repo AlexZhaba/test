@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "./static/css/main.a0c33a2e.chunk.css",
+    "main.css": "./static/css/main.ce331a2c.chunk.css",
     "main.js": "./static/js/main.8173e6de.chunk.js",
     "main.js.map": "./static/js/main.8173e6de.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.b5b29441.js",
@@ -8,18 +8,19 @@
     "static/js/2.225556fc.chunk.js": "./static/js/2.225556fc.chunk.js",
     "static/js/2.225556fc.chunk.js.map": "./static/js/2.225556fc.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.55aa89c9d29b67270dadc360ecfaf355.js": "./precache-manifest.55aa89c9d29b67270dadc360ecfaf355.js",
+    "precache-manifest.41cf4a24468584d0ceb253ee725bb121.js": "./precache-manifest.41cf4a24468584d0ceb253ee725bb121.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.a0c33a2e.chunk.css.map": "./static/css/main.a0c33a2e.chunk.css.map",
+    "static/css/main.ce331a2c.chunk.css.map": "./static/css/main.ce331a2c.chunk.css.map",
     "static/js/2.225556fc.chunk.js.LICENSE.txt": "./static/js/2.225556fc.chunk.js.LICENSE.txt",
     "static/media/fon.png": "./static/media/fon.6206770a.png",
-    "static/media/ChangePassword.module.css": "./static/media/fon.959a77a3.png",
-    "static/media/Sign.module.css": "./static/media/sign_1.ccb904b9.jfif"
+    "static/media/RecoveryPassword.module.css": "./static/media/fon_1.19be2732.png",
+    "static/media/Sign.module.css": "./static/media/fon_1.ab92963d.png",
+    "static/media/ChangePassword.module.css": "./static/media/fon_2.045bf219.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b5b29441.js",
     "static/js/2.225556fc.chunk.js",
-    "static/css/main.a0c33a2e.chunk.css",
+    "static/css/main.ce331a2c.chunk.css",
     "static/js/main.8173e6de.chunk.js"
   ]
 }
