@@ -1,26 +1,35 @@
 {
   "files": {
-    "main.css": "./static/css/main.ce331a2c.chunk.css",
-    "main.js": "./static/js/main.8173e6de.chunk.js",
-    "main.js.map": "./static/js/main.8173e6de.chunk.js.map",
+    "main.css": "./static/css/main.8dfaa0bd.chunk.css",
+    "main.js": "./static/js/main.798fe8d7.chunk.js",
+    "main.js.map": "./static/js/main.798fe8d7.chunk.js.map",
     "runtime-main.js": "./static/js/runtime-main.b5b29441.js",
     "runtime-main.js.map": "./static/js/runtime-main.b5b29441.js.map",
-    "static/js/2.225556fc.chunk.js": "./static/js/2.225556fc.chunk.js",
-    "static/js/2.225556fc.chunk.js.map": "./static/js/2.225556fc.chunk.js.map",
+    "static/js/2.53776848.chunk.js": "./static/js/2.53776848.chunk.js",
+    "static/js/2.53776848.chunk.js.map": "./static/js/2.53776848.chunk.js.map",
     "index.html": "./index.html",
-    "precache-manifest.41cf4a24468584d0ceb253ee725bb121.js": "./precache-manifest.41cf4a24468584d0ceb253ee725bb121.js",
+    "precache-manifest.63478d48a8aa65a047acb800c0f26d5c.js": "./precache-manifest.63478d48a8aa65a047acb800c0f26d5c.js",
     "service-worker.js": "./service-worker.js",
-    "static/css/main.ce331a2c.chunk.css.map": "./static/css/main.ce331a2c.chunk.css.map",
-    "static/js/2.225556fc.chunk.js.LICENSE.txt": "./static/js/2.225556fc.chunk.js.LICENSE.txt",
+    "static/css/main.8dfaa0bd.chunk.css.map": "./static/css/main.8dfaa0bd.chunk.css.map",
+    "static/js/2.53776848.chunk.js.LICENSE.txt": "./static/js/2.53776848.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "./static/media/1.3a0ce620.jpg",
+    "static/media/1.svg": "./static/media/1.5ccf7954.svg",
+    "static/media/1.png": "./static/media/1.ed6826fb.png",
+    "static/media/2.jpg": "./static/media/2.b6e3d283.jpg",
+    "static/media/3.jpg": "./static/media/3.2926b551.jpg",
+    "static/media/4.jpg": "./static/media/4.6c1c1a67.jpg",
+    "static/media/5.jpg": "./static/media/5.1715ae01.jpg",
+    "static/media/6.png": "./static/media/6.795b65d5.png",
     "static/media/fon.png": "./static/media/fon.6206770a.png",
     "static/media/RecoveryPassword.module.css": "./static/media/fon_1.19be2732.png",
     "static/media/Sign.module.css": "./static/media/fon_1.ab92963d.png",
-    "static/media/ChangePassword.module.css": "./static/media/fon_2.045bf219.png"
+    "static/media/ChangePassword.module.css": "./static/media/fon_2.045bf219.png",
+    "static/media/twitch.png": "./static/media/twitch.68c5c757.png"
   },
   "entrypoints": [
     "static/js/runtime-main.b5b29441.js",
-    "static/js/2.225556fc.chunk.js",
-    "static/css/main.ce331a2c.chunk.css",
-    "static/js/main.8173e6de.chunk.js"
+    "static/js/2.53776848.chunk.js",
+    "static/css/main.8dfaa0bd.chunk.css",
+    "static/js/main.798fe8d7.chunk.js"
   ]
 }
